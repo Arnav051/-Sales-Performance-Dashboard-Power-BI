@@ -3,7 +3,7 @@
  -- An end-to-end analytics project examining 500 sales transactions (Jan–Dec 2025) across regions, product categories, payment modes, and a 10-person sales team to uncover revenue concentration, leakage points, and profit drivers.
 
 # 🖼️ Dashboard Preview
-
+<img src="sales_dashboard.png" width="700" alt="Dashboard Preview" />
 
 # 🛠️ Tech Stack & Workflow
 1. Python (Pandas): Exploratory data analysis, cleaning raw transactional data, and establishing database connections.
