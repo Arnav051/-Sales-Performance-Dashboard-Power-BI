@@ -4,8 +4,6 @@
 
 # 🖼️ Dashboard Preview
 
-<img width="549" height="431" alt="{8EA63D8E-2CA8-4567-82C8-C345EAF99850}" src="https://github.com/user-attachments/assets/8e41a700-adf1-4504-891c-ebae5594c890" />
-
 
 # 🛠️ Tech Stack & Workflow
 1. Python (Pandas): Exploratory data analysis, cleaning raw transactional data, and establishing database connections.
